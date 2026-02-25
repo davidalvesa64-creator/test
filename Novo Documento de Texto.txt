@@ -2,4 +2,6 @@ MAÇÃ
 UVA
 Tangerina
 PERA
+Abacate
 ABACAXI
+
